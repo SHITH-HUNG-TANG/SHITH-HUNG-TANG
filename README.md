@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHITH-HUNG-TANG&show_icons=true&theme=dark)
 <!--
 **SHITH-HUNG-TANG/SHITH-HUNG-TANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
